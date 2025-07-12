@@ -1,0 +1,8 @@
+black
+flake8
+flake8-docstrings
+flake8-bugbear
+isort
+mypy
+bandit
+pre-commit
